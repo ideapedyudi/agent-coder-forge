@@ -1,0 +1,11 @@
+/*
+
+!/commands/
+!/commands/**
+!/plugins/
+!/plugins/**
+!/skills/
+!/skills/**
+
+!/README.md
+!/.gitignore
