@@ -1,8 +1,5 @@
 # Context Management
 
-<!-- Content adapted from PR #168 (context-engineer skill) by Genius-apple (https://github.com/Genius-apple). -->
-<!-- Original submission: https://github.com/Jeffallan/claude-skills/pull/168 -->
-
 ---
 
 ## When to Use This Reference
