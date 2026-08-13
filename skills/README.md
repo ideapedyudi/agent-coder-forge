@@ -8,16 +8,27 @@ Klik nama skill untuk membaca panduan lengkapnya.
 | Skill | Kegunaan |
 |---|---|
 | [code-reviewer](./code-reviewer/SKILL.md) | Review bug, security, kualitas, dan risiko kode |
+| [code-simplification](./code-simplification/SKILL.md) | Menyederhanakan kode tanpa mengubah behavior |
 | [devops-engineer](./devops-engineer/SKILL.md) | CI/CD, Docker, infrastructure as code, dan deployment |
 | [fullstack-guardian](./fullstack-guardian/SKILL.md) | Membangun fitur full-stack dengan fokus keamanan |
 | [git-commit](./git-commit/SKILL.md) | Membuat commit Conventional Commits dan push |
+| [incremental-implementation](./incremental-implementation/SKILL.md) | Menerapkan perubahan secara bertahap dan teruji |
+| [interview-me](./interview-me/SKILL.md) | Mengklarifikasi kebutuhan melalui interview bertahap |
 | [kubernetes-specialist](./kubernetes-specialist/SKILL.md) | Deploy, konfigurasi, dan debugging Kubernetes |
 | [prompt-engineer](./prompt-engineer/SKILL.md) | Merancang dan mengevaluasi prompt AI |
 | [security-reviewer](./security-reviewer/SKILL.md) | Audit keamanan, vulnerability, dan remediasi |
 | [spec-miner](./spec-miner/SKILL.md) | Reverse engineering dan ekstraksi spesifikasi dari codebase |
+| [spec-driven-development](./spec-driven-development/SKILL.md) | Menulis spesifikasi sebelum implementasi |
 | [the-fool](./the-fool/SKILL.md) | Menguji rencana dengan critical reasoning |
 | [transkrip-youtube](./transkrip-youtube/SKILL.md) | Transkripsi dan rangkuman video YouTube |
 | [websocket-engineer](./websocket-engineer/SKILL.md) | Membangun sistem real-time WebSocket dan Socket.IO |
+
+## Documentation And Tools
+
+| Skill | Kegunaan |
+|---|---|
+| [context7-mcp](./context7-mcp/SKILL.md) | Mengambil dokumentasi library terkini melalui Context7 |
+| [find-docs](./find-docs/SKILL.md) | Mencari dokumentasi, API reference, dan contoh kode terbaru |
 
 ## Languages And Frameworks
 
@@ -32,9 +43,16 @@ Klik nama skill untuk membaca panduan lengkapnya.
 | [react-expert](./react-expert/SKILL.md) | React component, hooks, state, dan debugging |
 | [react-native-expert](./react-native-expert/SKILL.md) | Aplikasi mobile React Native dan Expo |
 | [rust-engineer](./rust-engineer/SKILL.md) | Rust, ownership, async, dan sistem aman |
+| [shadcn](./shadcn/SKILL.md) | Mengelola komponen dan project shadcn/ui |
 | [sql-pro](./sql-pro/SKILL.md) | Query, schema, index, dan optimasi SQL |
 | [typescript-pro](./typescript-pro/SKILL.md) | Type system dan pola advanced TypeScript |
 | [vue-expert](./vue-expert/SKILL.md) | Vue 3, Nuxt, Pinia, dan Vite |
+
+## Testing
+
+| Skill | Kegunaan |
+|---|---|
+| [playwright-expert](./playwright-expert/SKILL.md) | E2E testing, browser automation, dan debugging Playwright |
 
 ## MongoDB
 
