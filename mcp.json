@@ -1,0 +1,37 @@
+{
+  "mcp": {
+    "mongodb": {
+      "type": "local",
+      "command": [
+        "node",
+        "mcps/mongodb/dist/index.js"
+      ],
+      "environment": {
+        "MDB_MCP_CONNECTION_STRING": "mongodb://localhost:27017"
+      },
+      "enabled": true
+    },
+    "figma-desktop": {
+      "type": "remote",
+      "url": "http://127.0.0.1:3845/mcp",
+      "enabled": false
+    },
+    "context7": {
+      "type": "remote",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "Authorization": "Bearer {env:CONTEXT7_API_KEY}"
+      },
+      "enabled": true
+    },
+    "playwright": {
+      "type": "local",
+      "command": [
+        "npx",
+        "-y",
+        "@playwright/mcp@latest"
+      ],
+      "enabled": true
+    }
+  }
+}
