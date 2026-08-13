@@ -45,6 +45,13 @@ Klik nama skill untuk membaca panduan lengkapnya.
 | [mongodb-schema-design](./mongodb-schema-design/SKILL.md) | Desain schema dan pola data MongoDB |
 | [mongodb-search-and-ai](./mongodb-search-and-ai/SKILL.md) | Atlas Search, Vector Search, dan hybrid search |
 
+## API
+
+| Skill | Kegunaan |
+|---|---|
+| [postman](./postman/SKILL.md) | Mengelola lifecycle API melalui Postman |
+| [postman-api-readiness](./postman-api-readiness/SKILL.md) | Menilai kesiapan API untuk AI agent |
+
 ## Figma
 
 | Skill | Kegunaan |
