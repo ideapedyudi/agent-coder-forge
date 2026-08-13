@@ -8,10 +8,13 @@ Klik nama skill untuk membaca panduan lengkapnya.
 | Skill | Kegunaan |
 |---|---|
 | [code-reviewer](./code-reviewer/SKILL.md) | Review bug, security, kualitas, dan risiko kode |
+| [devops-engineer](./devops-engineer/SKILL.md) | CI/CD, Docker, infrastructure as code, dan deployment |
 | [fullstack-guardian](./fullstack-guardian/SKILL.md) | Membangun fitur full-stack dengan fokus keamanan |
 | [git-commit](./git-commit/SKILL.md) | Membuat commit Conventional Commits dan push |
 | [kubernetes-specialist](./kubernetes-specialist/SKILL.md) | Deploy, konfigurasi, dan debugging Kubernetes |
 | [prompt-engineer](./prompt-engineer/SKILL.md) | Merancang dan mengevaluasi prompt AI |
+| [security-reviewer](./security-reviewer/SKILL.md) | Audit keamanan, vulnerability, dan remediasi |
+| [spec-miner](./spec-miner/SKILL.md) | Reverse engineering dan ekstraksi spesifikasi dari codebase |
 | [the-fool](./the-fool/SKILL.md) | Menguji rencana dengan critical reasoning |
 | [transkrip-youtube](./transkrip-youtube/SKILL.md) | Transkripsi dan rangkuman video YouTube |
 | [websocket-engineer](./websocket-engineer/SKILL.md) | Membangun sistem real-time WebSocket dan Socket.IO |
@@ -49,6 +52,7 @@ Klik nama skill untuk membaca panduan lengkapnya.
 
 | Skill | Kegunaan |
 |---|---|
+| [api-designer](./api-designer/SKILL.md) | Merancang API REST/GraphQL dan spesifikasi OpenAPI |
 | [postman](./postman/SKILL.md) | Mengelola lifecycle API melalui Postman |
 | [postman-api-readiness](./postman-api-readiness/SKILL.md) | Menilai kesiapan API untuk AI agent |
 
