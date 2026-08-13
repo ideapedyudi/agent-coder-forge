@@ -6,6 +6,8 @@
 !/plugins/**
 !/skills/
 !/skills/**
+!/mcps/
+!/mcps/**
 
 !/README.md
 !/.gitignore
