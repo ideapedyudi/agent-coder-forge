@@ -9,6 +9,7 @@ Klik nama skill untuk membaca panduan lengkapnya.
 |---|---|
 | [code-reviewer](./code-reviewer/SKILL.md) | Review bug, security, kualitas, dan risiko kode |
 | [code-simplification](./code-simplification/SKILL.md) | Menyederhanakan kode tanpa mengubah behavior |
+| [debugging-and-error-recovery](./debugging-and-error-recovery/SKILL.md) | Debugging sistematis, root-cause analysis, dan pemulihan error |
 | [devops-engineer](./devops-engineer/SKILL.md) | CI/CD, Docker, infrastructure as code, dan deployment |
 | [fullstack-guardian](./fullstack-guardian/SKILL.md) | Membangun fitur full-stack dengan fokus keamanan |
 | [git-commit](./git-commit/SKILL.md) | Membuat commit Conventional Commits dan push |
@@ -21,6 +22,7 @@ Klik nama skill untuk membaca panduan lengkapnya.
 | [spec-driven-development](./spec-driven-development/SKILL.md) | Menulis spesifikasi sebelum implementasi |
 | [the-fool](./the-fool/SKILL.md) | Menguji rencana dengan critical reasoning |
 | [transkrip-youtube](./transkrip-youtube/SKILL.md) | Transkripsi dan rangkuman video YouTube |
+| [using-agent-skills](./using-agent-skills/SKILL.md) | Memilih skill yang sesuai berdasarkan jenis tugas |
 | [websocket-engineer](./websocket-engineer/SKILL.md) | Membangun sistem real-time WebSocket dan Socket.IO |
 
 ## Documentation And Tools
