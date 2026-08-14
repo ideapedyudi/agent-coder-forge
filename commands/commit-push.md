@@ -2,23 +2,24 @@
 description: Stage all changes, commit with an auto-generated Conventional Commits message in English, and push to the remote.
 ---
 
-Analyze the current git changes and commit them.
+Commit and push the current git changes immediately. Do not create a todo list or ask for confirmation unless there is a merge conflict, authentication issue, or another blocking error.
 
-First, run these commands to understand the state:
-1. `git status`
-2. `git diff --staged` (if staged changes exist)
-3. `git diff` (if unstaged changes exist)
+Run these commands directly:
 
-Then generate a concise, descriptive commit message in English following the Conventional Commits format:
+```bash
+git status
+git diff --staged
+git diff
+git add .
+git commit -m "<generated message>"
+git push
+```
+
+Generate the commit message in English using Conventional Commits:
 - `<type>(<scope>): <short description>`
 - Imperative mood, max 72 chars for subject
 - No trailing period
 
-Execute these commands:
-1. `git add .`
-2. `git commit -m "<generated message>"`
-3. `git push`
-
-Report the commit hash and push result back to the user.
+Report only the commit hash and push result after completion.
 
 $ARGUMENTS
